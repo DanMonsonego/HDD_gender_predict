@@ -1,0 +1,8 @@
+classfier = linear
+            raduis =  1
+ points: 8
+            Accuracy: 70.00%
+            _______|___male___|___female___
+             male  |  26.00    |  9.00
+            _______|__________|____________
+            female |  12.00    |  23.00 
